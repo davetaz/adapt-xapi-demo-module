@@ -1,0 +1,148 @@
+{
+  "3cb2758010e55c79683ddf0b647cbb8148fb9943.jpg": {
+    "title": "Access granted",
+    "description": "Access narrative",
+    "source": "https://www.shutterstock.com/image-photo/access-granted-internet-login-238197199?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Brian Senic",
+    "tags": [
+      {
+        "title": "access",
+        "_id": "5ee397a3b045644557c81a8a"
+      },
+      {
+        "title": "narrative",
+        "_id": "5ee3979cb045644557c81a3b"
+      }
+    ]
+  },
+  "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
+    "title": "Open Logo Small",
+    "description": "Open Logo Small",
+    "source": "https://theodi.org",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "8069d2a4618084e967165ac7f06b4750e01098da.png": {
+    "title": "Summary clipboard white",
+    "description": "Summary clipboard white",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
+    "title": "Adapt eLearning",
+    "description": "Adapt eLearning",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": [
+      {
+        "title": "client logos",
+        "_id": "5ee397aeb045644557c81aee"
+      }
+    ]
+  },
+  "00f7e50f6e0eebaeb2a02430b0e238fbf6315921.jpg": {
+    "title": "Creative Commons",
+    "description": "Creative Commons",
+    "source": "http://www.shutterstock.com/pic-353727374",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Icons vector",
+    "tags": [
+      {
+        "title": "creative commons",
+        "_id": "60193c5c39cb08013353fdc6"
+      },
+      {
+        "title": "Licence",
+        "_id": "60193c5c39cb08013353fdc7"
+      }
+    ]
+  },
+  "6674b6d19f88e77b508eaea51cc20c51c91e6fcf.png": {
+    "title": "EDP logo",
+    "description": "EDP logo",
+    "source": "https://www.europeandataportal.eu/",
+    "licence": "All rights reserved",
+    "attribution": "European Data Portal",
+    "tags": []
+  },
+  "50253022ac8650bdccad84f4225f5100045c6da5.png": {
+    "title": "CC-BY-SA",
+    "description": "CC-BY-SA",
+    "source": "https://creativecommons.org/",
+    "licence": "CC0",
+    "attribution": "https://creativecommons.org/",
+    "tags": []
+  },
+  "7ac658a53bf4a828175b32a479d87c8d1beaed71.png": {
+    "title": "NI-Logo-No-Text.png",
+    "description": "Open Data NI",
+    "source": "https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing",
+    "licence": "All rights reserved",
+    "attribution": "Open Data NI",
+    "tags": [
+      {
+        "title": "NI Gov",
+        "_id": "60fec42837059d010b9f56a7"
+      }
+    ]
+  },
+  "84d4e97867d8d6ac1431cde5ec5ca9a12f0936e6.png": {
+    "title": "NI-Logo-No-Text-white",
+    "description": "NI-Logo-No-Text-white",
+    "source": "https://www.opendatani.gov.uk/",
+    "licence": "All rights reserved",
+    "attribution": "NI No text",
+    "tags": []
+  },
+  "31dc725ebc84b55bdc068a5771093182015dd6d7.jpg": {
+    "title": "contract_430x430.jpg",
+    "description": "Contact, sign, business, deal, procurement",
+    "source": "https://pixabay.com/photos/business-signature-contract-962354/",
+    "licence": "CC0",
+    "attribution": "Edar",
+    "tags": []
+  },
+  "3fb7cde59db7d6f5f724e750976b04156b829422.png": {
+    "title": "Open Government Licence UK OGL",
+    "description": "Open Government Licence UK OGL",
+    "source": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "licence": "All rights reserved",
+    "attribution": "National Archives",
+    "tags": [
+      {
+        "title": "Licence",
+        "_id": "60193c5c39cb08013353fdc7"
+      },
+      {
+        "title": "open government licence",
+        "_id": "6322df20828a70008ad2f4b7"
+      },
+      {
+        "title": "OGL",
+        "_id": "6322df20828a70008ad2f4b6"
+      }
+    ]
+  },
+  "64829574aa4b26639b7bd532ca47a73e4350c756.jpeg": {
+    "title": "access granted.jpeg",
+    "description": "Access granted",
+    "source": "https://www.shutterstock.com/image-photo/access-granted-internet-login-238197199?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Brian Senic",
+    "tags": [
+      {
+        "title": "access",
+        "_id": "5ee397a3b045644557c81a8a"
+      },
+      {
+        "title": "open",
+        "_id": "60193c5c39cb08013353fdd6"
+      }
+    ]
+  }
+}
